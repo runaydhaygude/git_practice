@@ -1,6 +1,5 @@
 before branching
-<<<<<<< HEAD
+
 line entered in master while branch
-=======
-line entered in branch
->>>>>>> tp
+
+hi
