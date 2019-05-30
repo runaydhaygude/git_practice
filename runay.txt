@@ -1,1 +1,2 @@
 before branching
+line entered in branch
